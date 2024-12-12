@@ -13,5 +13,9 @@ I thank @dwyl on git hub for the proccessed list of words document.
 https://github.com/dwyl/english-words     this is the original github repo for the dictionary.
 
 Warning: please for gods sake run this script through the terminal and not on IDLE, it takes eternities to get the work done there.
- 
 
+ 
+After each search each asks the input for all letters used in the roud,
+this accounts for the used up letters and change in probability of the letters.
+
+While entering the used up letters , 'aa' acounts for 2 A(s) used up in the round and henceforth.
